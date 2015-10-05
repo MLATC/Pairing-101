@@ -1,2 +1,2 @@
 # BirdyPrime
-Birdy Prime, thanks for reading!
+Thanks for reading!
