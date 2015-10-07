@@ -1,3 +1,2 @@
-# Pairing-101
-Birdy Prime
+# BirdyPrime
 Thanks for reading!
